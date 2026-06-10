@@ -135,7 +135,7 @@ Loan-Applicant-Analysis-SQL/
 │   ├── Loan.csv
 │   └── Loan_Cleaned.csv
 ├── cleaned_analysis.sql
-│7
+│
 ├──  Loan_Applicant_Analysis.pbix
 │
 └── README.md
