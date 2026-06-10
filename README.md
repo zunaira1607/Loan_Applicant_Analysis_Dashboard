@@ -145,16 +145,16 @@ Loan-Applicant-Analysis-SQL/
 
 ## Dashboard Preview
 
-Add screenshots of your Power BI dashboard here.
+Added screenshots of Power BI dashboard here.
 
-```markdown
-![Dashboard Overview]
-(<img width="956" height="482" alt="LoanDashbpard" src="https://github.com/user-attachments/assets/e42adc8a-bc10-4642-9e8e-42a6beaadcca" />
+
+
+<img width="956" height="482" alt="LoanDashbpard" src="https://github.com/user-attachments/assets/e42adc8a-bc10-4642-9e8e-42a6beaadcca" />
 <img width="623" height="346" alt="LAD" src="https://github.com/user-attachments/assets/7ce3dda7-c1eb-4b20-9c94-c7ee8b09cab2" />
-<img width="616" height="353" alt="LAD2" src="https://github.com/user-attachments/assets/516b3a4f-0d75-4793-b2a8-ad232e19fd64" />)
-```
+<img width="616" height="353" alt="LAD2" src="https://github.com/user-attachments/assets/516b3a4f-0d75-4793-b2a8-ad232e19fd64" />
 
-```markdown
+
+
 <img width="631" height="371" alt="in1" src="https://github.com/user-attachments/assets/6d4cf492-16fd-4580-8355-f6aafbca2e7c" />
 <img width="628" height="363" alt="In2" src="https://github.com/user-attachments/assets/d4955071-2f8f-4200-8e60-8e9a4ac93884" />
 <img width="631" height="371" alt="in1" src="https://github.com/user-attachments/assets/2eaa1271-4f2d-4ec4-b91f-eb7f38b74817" />
@@ -162,7 +162,6 @@ Add screenshots of your Power BI dashboard here.
 <img width="631" height="329" alt="in5" src="https://github.com/user-attachments/assets/6234a15c-cd80-4259-b6f6-429316942d85" />
 <img width="630" height="360" alt="in6" src="https://github.com/user-attachments/assets/e201f624-8a4f-4801-a785-7d5e4b36b69f" />
 
-```
 
 ---
 
