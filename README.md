@@ -112,8 +112,7 @@ The following data cleaning steps were performed using SQL:
 * Gender
 * Education
 * Marital Status
-* Self Employment Status
-* Property Area
+* 
 
 ---
 
@@ -136,7 +135,7 @@ Loan-Applicant-Analysis-SQL/
 │   ├── Loan.csv
 │   └── Loan_Cleaned.csv
 ├── cleaned_analysis.sql
-│
+│7
 ├──  Loan_Applicant_Analysis.pbix
 │
 └── README.md
@@ -149,9 +148,10 @@ Loan-Applicant-Analysis-SQL/
 Add screenshots of your Power BI dashboard here.
 
 ```markdown
-<img width="956" height="482" alt="LoanDashbpard" src="https://github.com/user-attachments/assets/e42adc8a-bc10-4642-9e8e-42a6beaadcca" />
+![Dashboard Overview]
+(<img width="956" height="482" alt="LoanDashbpard" src="https://github.com/user-attachments/assets/e42adc8a-bc10-4642-9e8e-42a6beaadcca" />
 <img width="623" height="346" alt="LAD" src="https://github.com/user-attachments/assets/7ce3dda7-c1eb-4b20-9c94-c7ee8b09cab2" />
-<img width="616" height="353" alt="LAD2" src="https://github.com/user-attachments/assets/516b3a4f-0d75-4793-b2a8-ad232e19fd64" />
+<img width="616" height="353" alt="LAD2" src="https://github.com/user-attachments/assets/516b3a4f-0d75-4793-b2a8-ad232e19fd64" />)
 ```
 
 ```markdown
