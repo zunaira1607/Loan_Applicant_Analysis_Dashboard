@@ -112,7 +112,7 @@ The following data cleaning steps were performed using SQL:
 * Gender
 * Education
 * Marital Status
-* 
+
 
 ---
 
