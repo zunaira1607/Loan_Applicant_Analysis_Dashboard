@@ -146,21 +146,16 @@ Loan-Applicant-Analysis-SQL/
 ## Dashboard Preview
 
 Added screenshots of Power BI dashboard here.
+<img width="625" height="346" alt="LDA" src="https://github.com/user-attachments/assets/888ba2ce-b57c-4ce1-9a7a-550610d30585" />
+<img width="635" height="371" alt="in1" src="https://github.com/user-attachments/assets/975191b5-6e5e-418b-9eeb-9aa20157f950" />
+<img width="636" height="371" alt="In2" src="https://github.com/user-attachments/assets/ad74b42c-7a9a-4107-9e34-ddb8d34c18e8" />
+<img width="633" height="365" alt="In3" src="https://github.com/user-attachments/assets/4e3106c2-845f-4ed3-bdfa-9418036a3996" />
+<img width="631" height="364" alt="IN4" src="https://github.com/user-attachments/assets/7c551517-847a-4270-bd07-bafdad6e5338" />
+<img width="636" height="367" alt="in5e" src="https://github.com/user-attachments/assets/6e8963c0-28c2-4053-a9c7-2be6eb8eeac2" />
+<img width="631" height="359" alt="in6" src="https://github.com/user-attachments/assets/808f4cb7-0769-4ce3-b688-e62e0d5462c6" />
 
 
 
-<img width="956" height="482" alt="LoanDashbpard" src="https://github.com/user-attachments/assets/e42adc8a-bc10-4642-9e8e-42a6beaadcca" />
-<img width="623" height="346" alt="LAD" src="https://github.com/user-attachments/assets/7ce3dda7-c1eb-4b20-9c94-c7ee8b09cab2" />
-<img width="616" height="353" alt="LAD2" src="https://github.com/user-attachments/assets/516b3a4f-0d75-4793-b2a8-ad232e19fd64" />
-
-
-
-<img width="631" height="371" alt="in1" src="https://github.com/user-attachments/assets/6d4cf492-16fd-4580-8355-f6aafbca2e7c" />
-<img width="628" height="363" alt="In2" src="https://github.com/user-attachments/assets/d4955071-2f8f-4200-8e60-8e9a4ac93884" />
-<img width="631" height="371" alt="in1" src="https://github.com/user-attachments/assets/2eaa1271-4f2d-4ec4-b91f-eb7f38b74817" />
-<img width="631" height="358" alt="IN4" src="https://github.com/user-attachments/assets/0a858aa8-a90f-40ed-aaad-ae8073589dd0" />
-<img width="631" height="329" alt="in5" src="https://github.com/user-attachments/assets/6234a15c-cd80-4259-b6f6-429316942d85" />
-<img width="630" height="360" alt="in6" src="https://github.com/user-attachments/assets/e201f624-8a4f-4801-a785-7d5e4b36b69f" />
 
 
 ---
@@ -184,5 +179,5 @@ Added screenshots of Power BI dashboard here.
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data cleaning in MySQL to interactive dashboard creation in Power BI. The insights generated can help financial institutions better understand loan applicant profiles and support data-driven decision-making.
 
-Author 
+##Author 
 Zunaira Sanober
