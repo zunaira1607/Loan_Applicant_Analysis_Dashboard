@@ -144,8 +144,9 @@ Loan-Applicant-Analysis-SQL/
 ---
 
 ## Dashboard Preview
-
 Added screenshots of Power BI dashboard here.
+
+
 <img width="625" height="346" alt="LDA" src="https://github.com/user-attachments/assets/888ba2ce-b57c-4ce1-9a7a-550610d30585" />
 <img width="635" height="371" alt="in1" src="https://github.com/user-attachments/assets/975191b5-6e5e-418b-9eeb-9aa20157f950" />
 <img width="636" height="371" alt="In2" src="https://github.com/user-attachments/assets/ad74b42c-7a9a-4107-9e34-ddb8d34c18e8" />
